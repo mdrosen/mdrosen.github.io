@@ -2,5 +2,6 @@ title: "Matthew D. Rosenthal"
 encoding: "utf-8"
 theme: jekyll-theme-slate
 
-logo: img src="https://photos.google.com/photo/AF1QipNUAaMQbZ1GakGPrfoErKv2IoL-Kom3JKDvYWSu" alt="logo"
+logo: (src="https://photos.google.com/photo/AF1QipNUAaMQbZ1GakGPrfoErKv2IoL-Kom3JKDvYWSu" alt="logo")
+
 
